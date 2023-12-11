@@ -1,0 +1,15 @@
+.btn-primary {
+    margin-top: 10px;
+}
+
+.my_form {
+    border: 1px solid #dee2e6;
+    border-radius: 0.375rem;
+    padding: 10px;
+}
+
+div#view_name {
+    border: 1px solid #dee2e6;
+    border-radius: 0.375rem;
+    padding: 0.375rem 0.75rem;
+}
